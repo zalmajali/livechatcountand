@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773302425196",
+    "project_id": "live-chat-cc1c4",
+    "storage_bucket": "live-chat-cc1c4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773302425196:android:3cd52681ed81e547d1aa49",
+        "android_client_info": {
+          "package_name": "com.Taqnyat.Livechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMiC7JCf2Ruf9o5q1wT-EYtNxESIvh39Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
